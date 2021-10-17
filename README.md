@@ -14,6 +14,8 @@
 
 ### 🏆 Моя статистика
 
+[![Codewarrior Profile Badges](https://www.codewars.com/users/Voltrein/badges/large)](https://www.codewars.com/users/Voltrein)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Voltrein-code&label=The%20profile%20was%20viewed&color=a06ffb&style=flat" alt="Voltrein-code" /> </p>
   <div>
     <a href="https://github-readme-stats.vercel.app/api?username=Voltrein-code&hide=contribs&show_icons=true&theme=buefy">
       <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=Voltrein-code&hide=contribs&show_icons=true&theme=buefy" />
@@ -23,7 +25,7 @@
     </a>
   </div>
   
-[![Codewarrior Profile Badges](https://www.codewars.com/users/Voltrein/badges/large)](https://www.codewars.com/users/Voltrein)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Voltrein-code&label=The%20profile%20was%20viewed&color=a06ffb&style=flat" alt="Voltrein-code" /> </p>
+
+
 
