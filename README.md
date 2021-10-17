@@ -14,7 +14,7 @@
 
 ### 🏆 Моя статистика
 
-  <div>
+  <div margin-bottom="10px">
     <a href="https://github-readme-stats.vercel.app/api?username=Voltrein-code&hide=contribs&show_icons=true&theme=buefy">
       <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=Voltrein-code&hide=contribs&show_icons=true&theme=buefy" />
     </a>
