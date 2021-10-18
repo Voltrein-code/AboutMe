@@ -14,7 +14,12 @@
 
 ### 📶 Мои контакты
 
-- https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+![Telegram](https://img.shields.io/badge/@evgeniy__shalnev-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ![Email](https://img.shields.io/badge/evgenii@shalnev--web.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Email](https://img.shields.io/badge/+7(903)865--60--77-blue?style=for-the-badge&logo=&logoColor=white)
+
+Для копирования: 
+- Telegram: @evgeniy_shalnev
+- Email: evgenii@shalnev-web.ru
+- Phone: +7(903)865-60-77
 
 ### 🏆 Моя статистика
 
