@@ -9,7 +9,7 @@
 ![Telegram](https://img.shields.io/badge/@voltrein-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ![Email](https://img.shields.io/badge/evgenii@shalnev--web.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 Для копирования: 
-- Telegram: @evgeniy_shalnev
+- Telegram: @voltrein
 - Email: evgenii@shalnev-web.ru
 
 ### 🏆 Моя статистика
